@@ -1,5 +1,6 @@
 # Awesome Workflow Automation Software, Tools & Apps
 
+
 A curated collection of the best **workflow automation software**, **workflow automation apps**, tools, articles, books, and resources — designed to help individuals and teams automate repetitive tasks, streamline processes, and increase productivity.
 
 > Whether you're a solo creator, a growing business, or an enterprise, these **workflow automation tools** will help you integrate apps, eliminate manual work, and optimize operations.
@@ -40,6 +41,7 @@ Each tool listed below includes a link to a **detailed review** on [productivity
 |------|-------------|
 | **[ActivePieces](https://www.activepieces.com/)** — *[Review](https://productivity.directory/activepieces)* | Open-source, all-in-one automation platform. |
 | **[Airtable](https://airtable.com/)** — *[Review](https://productivity.directory/airtable)* | Combine spreadsheets and databases with automated workflows. |
+| **[Appian](https://www.appian.com/)** — *[Review](https://www.gartner.com/reviews/market/low-code-application-platform/vendor/appian)* | A low-code platform |
 | **[Automate.io](https://automate.io/)** — *[Review](https://productivity.directory/automate-io)* | Integrate apps and automate business tasks. |
 | **[Automateo](https://automateo.app)** | Create LLM-based workflows that produce consistent AI outputs. |
 | **[Automatisch](https://automatisch.io/)** — *[Review](https://productivity.directory/automatisch)* | Open-source Zapier alternative for workflow automation. |
